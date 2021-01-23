@@ -8,3 +8,6 @@ export const Spinner = () => {
         </Fragment>
     )
 }
+
+export default Spinner
+
